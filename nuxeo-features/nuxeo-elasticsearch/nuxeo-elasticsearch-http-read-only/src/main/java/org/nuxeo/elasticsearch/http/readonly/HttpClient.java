@@ -12,7 +12,7 @@ package org.nuxeo.elasticsearch.http.readonly;/*
  * Lesser General Public License for more details.
  *
  * Contributors:
- *     bdelbosc
+ *     Benoit Delbosc
  */
 
 import java.io.IOException;
